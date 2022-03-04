@@ -1,0 +1,66 @@
+.dashboardcomparative-container-main {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboardcomparative-box-container-table-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 55rem;
+  margin: 2rem;
+  flex-flow: column wrap;
+  align-items: center;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  border-radius: 10px;
+  border: 1px solid #00000020;
+  padding: 2rem;
+}
+
+.dashboard-comparative-tittle {
+  color: #1d77ab;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+}
+
+.dashboarcomparative-table {
+  width: 100%;
+}
+
+.employee-search-container {
+  display: flex;
+  align-items: center;
+}
+
+.dashboard-comparative-header {
+  display: flex;
+  align-items: center;
+  width: 50rem;
+  justify-content: space-between;
+  margin: 10px;
+}
+.dashboardcomparative-date {
+  display: flex;
+  width: 220px;
+  align-items: center;
+}
+
+.dashboard-comparative-filters {
+  display: flex;
+  width: 53rem;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+.table-wrapper-scroll-y {
+  display: block;
+}
+

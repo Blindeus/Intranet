@@ -1,0 +1,92 @@
+{
+  "ventas": [
+    {
+      "id": 1,
+      "tipo_tienda": "Sei",
+      "nombre_tienda": "Mall Plaza Vespucio",
+      "fecha": "2018-01-01",
+      "boletas": 120,
+      "visitas": 53,
+      "monto_ventas": 3120000
+    },
+    {
+      "id": 2,
+      "tipo_tienda": "Sei",
+      "nombre_tienda": "Apumanque",
+      "fecha": "2018-01-02",
+      "boletas": 109,
+      "visitas": 49,
+      "monto_ventas": 2305653
+    },
+    {
+      "id": 3,
+      "tipo_tienda": "Sei",
+      "nombre_tienda": "Emporio",
+      "fecha": "2018-01-03",
+      "boletas": 115,
+      "visitas": 60,
+      "monto_ventas": 2346620
+    },
+    {
+      "id": 4,
+      "tipo_tienda": "Sei",
+      "nombre_tienda": "Maipu",
+      "fecha": "2018-01-04",
+      "boletas": 135,
+      "visitas": 62,
+      "monto_ventas": 2366532
+    },
+    {
+      "id": 5,
+      "tipo_tienda": "Beauty",
+      "nombre_tienda": "Santiago",
+      "fecha": "2018-01-01",
+      "boletas": 34,
+      "visitas": 19,
+      "monto_ventas": 246534
+    },
+    {
+      "id": 6,
+      "tipo_tienda": "Beauty",
+      "nombre_tienda": "Costanera Center",
+      "fecha": "2018-01-02",
+      "boletas": 20,
+      "visitas": 28,
+      "monto_ventas": 245654
+    },
+    {
+      "id": 7,
+      "tipo_tienda": "Beauty",
+      "nombre_tienda": "Chubi",
+      "fecha": "2018-01-03",
+      "boletas": 40,
+      "visitas": 35,
+      "monto_ventas": 456464
+    },
+    {
+      "id": 8,
+      "tipo_tienda": "Beauty",
+      "nombre_tienda": "Santiago",
+      "fecha": "2018-01-04",
+      "boletas": 34,
+      "visitas": 22,
+      "monto_ventas": 243552
+    }
+  ],
+  "boletas": [
+    {
+    "fecha":"02-02-2021",
+    "vendedor": "Giovanni Arriagada",
+    "bodega": "Arauco Maipu",
+    "codigo": "1201239481",
+    "detalle":"Cinturon SEI 10267 negro",
+    "cantidad": "2",
+    "precio": "6.990",
+    "total": "6.990",
+    "subtotal": "6.990",
+    "descuento": "0",
+    "iva": "570"
+    }
+  ]
+  
+}
